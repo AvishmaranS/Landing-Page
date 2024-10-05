@@ -19,7 +19,7 @@ body {
 
 /* Header Styles */
 header {
-    background: #333;
+    background: #000000;
     color: #fff;
     padding: 20px 0;
     text-align: center;
@@ -62,16 +62,6 @@ header nav ul li a {
 .hero-content p {
     font-size: 1.5em;
     margin-bottom: 30px;
-}
-
-.hero-content .btn {
-    padding: 10px 20px;
-    background-color: #ff6347;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    font-size: 1.2em;
-    cursor: pointer;
 }
 
 .hero-content .btn:hover {
